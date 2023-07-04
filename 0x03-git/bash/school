@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 eco "school"
+=======
+echo "school is open!"
+>>>>>>> update_script
